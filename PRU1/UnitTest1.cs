@@ -9,6 +9,7 @@ namespace PRU1
         [TestMethod]
         public void TestMethod1()
         {
+            
         }
     }
 }
